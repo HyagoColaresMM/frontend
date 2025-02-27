@@ -1,0 +1,16 @@
+{
+  "tipopessoa": [
+    { "codigo": 1, "valor": "F", "descricao": "Física" },
+    { "codigo": 2, "valor": "J", "descricao": "Jurídica" },
+    { "codigo": 3, "valor": "E", "descricao": "Estrangeiro" },
+    { "codigo": 4, "valor": "O", "descricao": "Outros" },
+    { "codigo": 5, "valor": "I", "descricao": "Interno" },
+    { "codigo": 6, "valor": "C", "descricao": "Cooperativa" },
+    { "codigo": 7, "valor": "A", "descricao": "Associação" },
+    { "codigo": 8, "valor": "S", "descricao": "Sindicato" },
+    { "codigo": 9, "valor": "P", "descricao": "Público" },
+    { "codigo": 10, "valor": "M", "descricao": "MEI" },
+    { "codigo": 11, "valor": "T", "descricao": "Terceiro" },
+    { "codigo": 12, "valor": "V", "descricao": "Voluntário" }
+  ]
+}
